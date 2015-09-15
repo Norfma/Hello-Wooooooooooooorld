@@ -3,5 +3,5 @@
 int main()
 {
 	//commentaires
-	printf("Hello Woooorld\n u know what\n ???!!!\n FAAAAAAAAK\n YAAAAAAAAAAA\n"); //#lololol
+	printf("Hello Woooorld\n again...\n"); //#lololol
 }
